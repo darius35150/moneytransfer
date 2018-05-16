@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron{
+    height: 400px;
+    background-color: #3385ff !important;
+}
+
+.jumbotron .container h1{
+    color: white;
+}
+
+.navbar {
+    background-color: #3385ff !important;
+}
+
+.navbar-default .container-fluid .navbar-nav li a{
+    color: white;
+}
